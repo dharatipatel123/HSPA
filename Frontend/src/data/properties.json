@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "SellRent": 1,
+    "Name": "Birla House",
+    "Type": "House",
+    "Price": 12000,
+    "Image": "house_1.jpeg"
+  },
+  {
+    "Id": 2,
+    "SellRent": 1,
+    "Name": "Errose Villa",
+    "Type": "Villa",
+    "Price": 14000,
+    "Image": "house_2.jpeg"
+  },
+  {
+    "Id": 3,
+    "SellRent": 2,
+    "Name": "Mark Hill",
+    "Type": "Flat",
+    "Price": 12500,
+    "Image": "house_3.jpeg"
+  },
+  {
+    "Id": 4,
+    "SellRent": 1,
+    "Name": "Gun Hill",
+    "Type": "Duplex",
+    "Price": 11400,
+    "Image": "house_4.jpeg"
+  },
+  {
+    "Id": 5,
+    "SellRent": 2,
+    "Name": "Macro Home",
+    "Type": "House",
+    "Price": 14300,
+    "Image": "house_5.jpeg"
+  },
+  {
+    "Id": 6,
+    "SellRent": 1,
+    "Name": "Perl White",
+    "Type": "House",
+    "Price": 18000,
+    "Image": "house_6.jpeg"
+  }
+]
